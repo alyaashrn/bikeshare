@@ -1,4 +1,6 @@
-#Install Library
-#pip install streamlit 
-#Run Streamlit app
-#streamlit run dashboard.py
+<pre>
+Install Library
+pip install streamlit 
+Run Streamlit app
+streamlit run dashboard.py
+</pre>
