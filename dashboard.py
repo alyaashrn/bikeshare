@@ -11,7 +11,7 @@ st.write(
     """
 )
 
-df = pd.read_csv('https://raw.githubusercontent.com/alyaashrn/bike_dataset/main/all_data.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/alyaashrn/bikeshare/main/day.csv')
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.header('Bike sharing Dashboard :sparkles:')
